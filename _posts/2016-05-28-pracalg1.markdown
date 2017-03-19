@@ -80,9 +80,9 @@ En primer lugar debemos notar que b podría ser cualquier valor positivo o negat
 
 Debido a la última oración, es que se usa el módulo; es decir, que la raíz cuadrada de a es igual al módulo de b. Y si el módulo de b es igual a la raíz cuadrada de a, entonces tenemos dos posibles valores para b, raíz cuadrada negativa de a ó raíz cuadrada positiva de a. 
 
-Como sabemos que a pertenece a un conjunto no negativo, entonces no hace falta ver el signo de las dos posibles valores de la raíz cuadrada negativa de a y raíz cuadrada positiva de a . 
+Como sabemos que a pertenece a un conjunto no negativo, entonces no hace falta ver el signo de las dos posibles de b, o sea, valores de la raíz cuadrada negativa de a y raíz cuadrada positiva de a . 
 
-Solo queda ver cuál podría ser el valor de b y a esto lo podemos deducir recordando que b también es un cto. con valores no negativos. Por lo tanto, b es no negativo y de ésto se deduce que b es igual a la raíz cuadrada positiva de a.
+Entonces, recordando que b también es un cto. con valores no negativos. Por lo tanto, b es no negativo y de ésto se deduce que b es igual a la raíz cuadrada positiva de a.
 
 
 
