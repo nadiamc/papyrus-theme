@@ -1,0 +1,23 @@
+---
+layout: post
+title: Clases prácticas
+date: 2016-05-28 15:46
+comments: true
+external-url:
+categories: álgebra I
+---
+
+### Ejercicio 1
+Sea A un conjunto cuyos elementos son 1, 2 y 3. Sea R una relación definida como todos aquellos pares ordenados (A; B) pertenecientes al producto cartesiano entre el conjunto de partes de A tales que A está contenido en B.
+
+Probar que esta releción es una relación de orden.
+
+#### Reflexividad:
+Para afirmar que esta relación es reflexiva debemos ver que cada uno de los elementos del conjunto de partes de A
+está relacionado con sí mismo. Es decir, si tomo un elemento H del conjunto de partes de A, tengo que ver que H esté relacionado con H; y, en este caso, por definición de esta relación, tengo que ver que H esté contenido en H.
+
+Por propiedad de conjuntos, se sabe que cualquiera sea el conjunto A, siempre se cumple que A está contenido en A.
+
+Por lo tanto, es cierto decir que H está contenido en H. O sea, la relación tratada es reflexiva.
+
+#### Antisimetría:
