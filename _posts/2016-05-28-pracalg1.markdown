@@ -46,7 +46,7 @@ Probar que es una relación de equivalencia.
 
 ## Funciones
 
-### _Definición_
+### __Definición__
 Una función de A en B es una relación R que está incluída en el producto cartesiano entre A y B tal
 que para todo elemento del conjunto A existe un único elemento del conjunto B.
 
@@ -84,6 +84,6 @@ Como sabemos que a pertenece a un conjunto no negativo, entonces no hace falta v
 
 Entonces, recordando que b también es un cto. con valores no negativos. Por lo tanto, b es no negativo y de ésto se deduce que b es igual a la raíz cuadrada positiva de a.
 
-
+#### __observación__
 
 
