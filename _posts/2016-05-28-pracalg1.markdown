@@ -7,6 +7,8 @@ external-url:
 categories: álgebra I
 ---
 
+## Relaciones
+
 ### Ejercicio 1
 Sea A un conjunto cuyos elementos son 1, 2 y 3. Sea R una relación definida como todos aquellos pares ordenados (A; B) pertenecientes al producto cartesiano entre el conjunto de partes de A tales que A está contenido en B.
 
@@ -35,7 +37,16 @@ Por lo tanto, esta relación es transitiva.
 Se ha probado que la relación mencionada es una relación de orden.
 
 ### Ejercicio 2
+Sea A el conjunto de los números naturales. Sea R una relación en A definida como todos los pares ordenado (a, b) tales que a es mayor oo giual a b.
+Probar que es una relación de orden.
 
+### Ejercicio 3
+Sea A el conjunto de los números naturales. Sea R una relación en el conjunto de partes de A definida como todos los pares ordenados (A; B) tales que el conjunto llamado K que tiene a los elementos 2, 7 y 9 está contenido en el complemento de la diferencia simétrica entre A y B. 
+Probar que es una relación de equivalencia.
+
+## Funciones
+
+### Ejercicio 1
 
 
 
