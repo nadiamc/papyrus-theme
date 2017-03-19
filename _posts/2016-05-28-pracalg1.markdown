@@ -21,3 +21,22 @@ Por propiedad de conjuntos, se sabe que cualquiera sea el conjunto A, siempre se
 Por lo tanto, es cierto decir que H está contenido en H. O sea, la relación tratada es reflexiva.
 
 #### Antisimetría:
+Esta relación es antisimétrica si al tomar dos elementos del conjunto de partes de A, llamados H y T, tales que a T está contenido en H y H está contenido en T se implica que T es igual a H.
+
+Veamos si es así. Tomamos H y T, dos elemento del conjunto de partes de A. Si H está relacionado con T, se tiene que H está contenido en T. Por otra parte, si T está relacionado con H, se tiene que T está contenido en H. Ahora, observando y recordando que la defición de igualdad de conjuntos, podemos inferir que el conjunto H es el mismo conjunto T. Por lo tanto, esta relación es antisimétrica.
+
+#### Transitividad:
+Para ver que es transitiva, tomemos tres elementos del conjunto de partes de A llamados Q, W, y Z, tales que Q está relacionado con W y, a su vez, W está relacionado con Z. De esto último, podemos deducir que Q está contenido en W y que W está contenido en Z.
+
+Observando y recordando que la inclusión es una operación de conjuntos que posee la propiedad de transitividad, podemos inferir que entonces T está contenido en el conjunto Z.
+
+Por lo tanto, esta relación es transitiva.
+
+Se ha probado que la relación mencionada es una relación de orden.
+
+### Ejercicio 2
+
+
+
+
+
