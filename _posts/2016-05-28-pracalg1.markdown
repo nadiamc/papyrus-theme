@@ -46,7 +46,31 @@ Probar que es una relación de equivalencia.
 
 ## Funciones
 
-### Ejercicio 1
+### Definición:
+Una función de A en B es una relación R que está incluída en el producto cartesiano entre A y B tal
+que para todo elemento del conjunto A existe un único elemento del conjunto B.
+
+### Ejercicio
+Sea R una relación definida por todos los pares ordenados (a, b), pertenecientes al producto cartesiano entre el conjunto de los números naturales, tales que a es igual al doble de b.
+Decidir si R es una función.
+
+#### Resolución
+R no es una función porque existe al menos un elemento del conjunto de los números naturales, por ejemplo el 5, para el cuál no exite un b perteneciente a los naturales tal que 5 sea igual al doble de b. o sea, en otras palabras, no exite un b que al ser multiplicado por dos sea igual al 5. (5 no está relacionado con b perteneciente a los naturales)
+
+### Ejercicio
+Sea A el conjunto de todos los números naturales mayores o iguales a cero. Y sea B el conjunto del todos los números reales. Se define la relación R como el conjunto de todos los pares ordenados (a, b) pertencientes a AxB tales que a es igual al cuadrado de b.
+Decidir si R es función. 
+
+#### Resolución
+Para todos los a pertenecientes a A, existe un único b real talque al cuadrado sea igual a "a"???
+No, si tomamos un a igual a 1, vemos que existen dos números reales tales que sus cuadrados son iguales a 1. Dichos dos números reales son el 1 y el -1. Por lo tanto, esta relación no es una función.
+
+### Ejercicio
+Sea A y B dos conjuntos cuyos elementos son los números reales mayores o iguales a cero, se define la relación R como los pares ordenados pertenecientes a AxB tals que a es igual al cuadrado de b. 
+
+#### Resolución
+Veamos que esta relación sí es una función.
+
 
 
 
