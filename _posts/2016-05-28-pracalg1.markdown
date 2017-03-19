@@ -46,7 +46,7 @@ Probar que es una relación de equivalencia.
 
 ## Funciones
 
-### Definición:
+### _Definición_
 Una función de A en B es una relación R que está incluída en el producto cartesiano entre A y B tal
 que para todo elemento del conjunto A existe un único elemento del conjunto B.
 
