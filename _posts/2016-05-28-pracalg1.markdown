@@ -84,6 +84,47 @@ Como sabemos que a pertenece a un conjunto no negativo, entonces no hace falta v
 
 Entonces, recordando que b también es un cto. con valores no negativos. Por lo tanto, b es no negativo y de ésto se deduce que b es igual a la raíz cuadrada positiva de a.
 
-#### Observación
+### Definición
+La imagen de una función f que va desde A hasta B es el conjunto de todos los b pertenecientes a tales que existe al menos un k perteneciente a A tal que b es igual a la imagen de a. 
+
+##### Definición hecha por mi
+La imagen de una función f que va desde A hasta B, una relación que está incluída en AxB, es el conjunto de todos los b pertenecientes a B que están relacionados con al menos un a perteneciente al conjunto A.
+
+
+### Definición de función inyectiva
+Es aquella función que cumple con la siguiente implicación: si la imagen de a es igual a la imagen de a', entonces a es igual a a'.
+
+También se puede definir con una implición equivalente llamada contrarecíproca: si a es distinto a a', entonces la imagen de a es distinta a la imagen de a'.
+
+### Definición de función subreyectiva
+Es aquella función cuyo conjunto imagen es igual al codominio de la función en cuestión. 
+
+### Definición de función biyectiva
+Es aquella función que es inyectiva y sobreyectiva.
+
+### Ejercicio 1
+Decidir si las siguientes funciones son funciones inyectivas, sobreyectivas o biyectivas.
+
+### a)
+Si f es una función de reales en reales definida como f(x) igual al cuadrado de x.
+
+No es inyectiva porque tanto 1 como -1 tienen la misma imagen.
+No es sobreyectiva porque la imagen es un conjunto distinto al codominio. O sea, hay elmentos del codominio que no están en la imagen.
+Como no es inyectiva y sobreyectiva, tampoco es biyectiva.
+
+### b)
+Si f es una función de números naturales en números naturales definida como f(x) igual al cuadrado de x.
+
+Veamos si esta función es inyectiva. Recordemos que para ser inyectiva debe suceder que si dos elelmentos tienen la misma imagen, entonces estamos hablando del mismo elemento. Si tomo dos elementos, n y m, con la misma imagen, entonces f(n) es igual a f(m). Esto último es equivalente a decir que entonces el cuadrado de n es igual al cuadrado de m. entonces, al aplicar la función raíz cuadrada en ambas partes de la igualdad, tenemos que el módulo de m es igual al módulo de n; pero, como estamos tratando con números naturales tenemos que n es igual a m. Por lo tanto, esta función es inyectiva.
+
+Veamos si es sobreyectiva. Observamos que la imagen de esta función son todos los número naturales, lo que coincide  con el codominio. Concluímos que la función también es sobreyectiva.
+
+Veamos por último si esta función es biyectiva. Al ver que esta función es inyectiva y sobreyectiva, entonces podemos deducir, por definición de función biyectiva, que esta función es biyectiva. Fin (?)
+
+### c)
+Si f es una función de números naturales a números naturales definida como n+1 para todo n impar, y n-1 para todo n par.
+
+Para ver si es inyectiva tomaré dos elementos que tienen la misma imagen y veré si de ello se deduce que los elementos tomados, en realidad, son el mismo. 
+Bien, si tomo m y p naturales 
 
 
